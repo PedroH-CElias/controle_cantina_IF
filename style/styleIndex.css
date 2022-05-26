@@ -1,0 +1,15 @@
+#logo img{
+    width: 30%;
+    padding-left: 4%;
+    padding-top: 4%;
+}
+#links{
+    top: 0;
+    right: 0;
+    position: absolute;
+    padding-right: 10%;
+    padding-top: 6%;
+}
+#imgfooter{
+    width: 10%;
+}
